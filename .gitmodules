@@ -1,0 +1,6 @@
+[submodule "Reflex-User-Portal"]
+	path = Reflex-User-Portal
+	url = https://github.com/supmo668/Reflex-User-Portal.git
+[submodule "reflex-railway-deploy"]
+	path = reflex-railway-deploy
+	url = git@github.com:supmo668/reflex-railway-deploy.git
